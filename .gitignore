@@ -1,3 +1,11 @@
+# Specific to this repository
+/data
+/lock_dir
+/logs
+/model
+/tools
+venv-*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
