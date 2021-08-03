@@ -34,7 +34,7 @@ Download the data:
 ```bash
 mkdir -p data/aligned
 cd data
-# Download the ZIP file fromhttps://zenodo.org/record/5148163
+# Download the ZIP file from https://zenodo.org/record/5148163
 unzip APA_sentence-aligned_LHA.zip -d aligned/
 cd ..
 ```
