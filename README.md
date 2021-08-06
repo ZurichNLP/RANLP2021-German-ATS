@@ -4,7 +4,7 @@ The code for the RANLP 2021 paper "Exploring German Multi-Level Text Simplificat
 
 ## Purpose
 
-This repository allows you to reproduce the "APA multi" model from the paper.
+This repository allows you to reproduce the "APA multi" model from the paper. It contains the necessary code. To download the data, please visit [https://zenodo.org/record/5148163](https://zenodo.org/record/5148163).
 
 ## Remarks
 
